@@ -1,3 +1,3 @@
-### Extra Credit: Demographic Composition of Liberia Report
+# Extra Credit: Demographic Composition of Liberia Report
 
 abcd

@@ -7,7 +7,7 @@ tears
 
 ### This dataset comprises of 48219 data points that hold demographic of the survey respondents. The names of the variables are location, size, wealth, gender, age and education. The target variable (y) in this project was the education variable which has 6 unique values namely [0,1,2,3,8,9]. Upon doing summary statistics for the target variable it was revealed that the average value for education is 0.66 which suggests that a large amount of the respondents are uneducated. 
 
-### insert image
+![](Picture1.png)
 
 ### Data points with education label ‘0’ account for more than 55% of the entire dataset, while data points with education label ‘8’ and ‘9’ account for less than 1% of the dataset. This suggests class imbalance which makes it very likely that no classification model will ever reach a high level of classification with the given data. Also, label ‘8’ may have been a transcription error since there was only one data point with that label. It should be noted that the highest level of education in this dataset is 3. Values 8 & 9 refer to someone not knowing their education level/grade.
 

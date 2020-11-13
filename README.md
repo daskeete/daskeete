@@ -35,7 +35,7 @@ tears
 
 ## Decision Tree Classifier
 ### insert image
-This next classifier was trained using the Decision Tree Classifier. For both min_samples_split and max_depth hyperparameters, a loop to iterate over values between 2-21 was used to find the optimal values. The best max_depth was 7 and the best min_samples_split was 13. The test score for this model is 71.81% and it correctly classified 13851 data points.
+### This next classifier was trained using the Decision Tree Classifier. For both min_samples_split and max_depth hyperparameters, a loop to iterate over values between 2-21 was used to find the optimal values. The best max_depth was 7 and the best min_samples_split was 13. The test score for this model is 71.81% and it correctly classified 13851 data points.
 
 ## Random Forest Classifier
 ### insert image
